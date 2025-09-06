@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Yahya Bahçeci</h1>
 <h3 align="center">A passionate Computer Engineer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyabahceci&label=Profile%20views&color=0e75b6&style=flat" alt="yahyabahceci" /> </p>
 
 - 🔭 I’m currently working on [Python](https://github.com/yahyabahceci/solving-question-with-python)
 
@@ -29,4 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyabahceci&show_icons=true&locale=en" alt="yahyabahceci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyabahceci&" alt="yahyabahceci" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyabahceci&label=Profile%20views&color=0e75b6&style=flat" alt="yahyabahceci" /> </p>
 
